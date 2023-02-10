@@ -4,6 +4,9 @@ Hello everybody
 That's my UFC REST API using Node js (Express, MongoDB) which perform CRUD operations (Create Fighter, Read Fighter/s , Update Fighter, Delete Fighter) from database
 Note: Using local database on port 27017
 
+Testing: 
+- postman
+
 Code dependencies: 
 - express | routing and middlewares
 - mongoose | dealing with MongoDB databasse
